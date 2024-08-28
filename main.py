@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import datetime,time
 
 # Load the data from the "Match Dump Sheet" sheet
-file_path = "D:\My Programs\Python Programs\Lifease Solutions\Match Dump-DE Take home assignment.xlsx"
+file_path = "Excel File Path"
 match_data = pd.read_excel(file_path, sheet_name='Match Dump Sheet')
 
 
