@@ -11,7 +11,7 @@ The solution involves creating an algorithm that computes a TRP priority score f
 
 ## Input Data
 The input data is provided in an Excel sheet that includes critical information about cricket matches. The relevant columns are:
-Match No.: Unique identifier for the match.
+- Match No.: Unique identifier for the match.
 Date: The scheduled date of the match.
 Time (IST): The start time of the match in Indian Standard Time.
 Team A and Team B: Teams playing the match.
