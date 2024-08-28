@@ -1,4 +1,4 @@
-#CricRadio Spotlight Card Algorithm
+# CricRadio Spotlight Card Algorithm
 
 #Overview
 This project implements a Spotlight Card Algorithm for CricRadio, a cricket-based application, to maximize user engagement by showcasing the most relevant and exciting cricket matches. The algorithm calculates the TRP (Television Rating Points) priority for each match by considering various priority parameters, ensuring that users are presented with the most engaging and trending matches in real-time.
